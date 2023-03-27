@@ -37,11 +37,13 @@ Here are some ideas to get you started:
 
 <br>
 <div>
-  <p><strong>Databases: &nbsp</strong>    </p>
+  <p><strong>Databases & Tools: &nbsp</strong>    </p>
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href=""><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-   
+   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion Badge">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger Badge">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge">
 </div>
 <br>
 <div> 
