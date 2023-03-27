@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- https://badges.pages.dev -->
-<a href="https://github.com/ricardocardoso-dev">
+<a href="http://github.com/ricardocardoso-dev">
 <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ricardocardoso-dev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="155em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&layout=compact&theme=codeSTACKr"/>
+  <img height="155em" width="420" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&layout=compact&theme=codeSTACKr"/>
 </div>
   
 
