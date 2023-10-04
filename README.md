@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   <!--  <img alt="GitHub" src="https://img.shields.io/badge/azure-devops.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /> -->
 <!-- </div> 
 <div> --> 
+  <a href = "mailto:ricardo.cardoso@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
+
   ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardocardosodev&layout=compact&theme=react)
 </div>
 
@@ -46,6 +50,12 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/ricardocardoso-dev/DotNetBenchmarks" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=DotNetBenchmarks&cache_seconds=86400&theme=react" width="49%" alt="Dot NET Benchmarks"/>
+  </a>
+  <a href="https://github.com/ricardocardoso-dev/api-superHero" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=api-superHero&cache_seconds=86400&theme=react" width="49%" alt="API Super Heros"/>
+  </a>
+    <a href="https://github.com/ricardocardoso-dev/MinhaAppMvcCompleta_DevIO" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=MinhaAppMvcCompleta_DevIO&cache_seconds=86400&theme=react" width="49%" alt="Dot NET Benchmarks"/>
   </a>
 
 <br>
@@ -61,9 +71,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge">
 </div>
 <br> -->
-<div> 
-  <p><strong>Social: &nbsp</strong>    </p>
-  <a href = "mailto:ricardo.cardoso@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
-</div>
+
