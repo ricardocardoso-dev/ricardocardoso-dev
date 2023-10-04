@@ -39,8 +39,11 @@ Here are some ideas to get you started:
   <a href="https://wakatime.com/@ricardocardosodev" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
 
   <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
-
-  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardocardosodev&layout=compact&theme=react)
+<div display="flex">
+ <a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardocardosodev&layout=compact&theme=react"/>
+ </a>
+ <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&layout=compact&theme=react"/>
 </div>
 
 ## Projects
