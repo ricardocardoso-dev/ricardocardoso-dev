@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=ski-shop-e-commerce&cache_seconds=86400&theme=react" width="49%" alt="Ski Shop E-Commerce"/>
   </a>
   <a href="https://github.com/ricardocardoso-dev/DotNetBenchmarks" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=DotNetBenchmarks&cache_seconds=1&theme=react" width="49%" alt="Dot NET Benchmarks"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=DotNetBenchmarks&cache_seconds=86400&theme=react" width="49%" alt="Dot NET Benchmarks"/>
   </a>
   <a href="https://github.com/ricardocardoso-dev/api-superHero" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=api-superHero&cache_seconds=86400&theme=react" width="49%" alt="API Super Heros"/>
