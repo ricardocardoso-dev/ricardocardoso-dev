@@ -57,6 +57,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/ricardocardoso-dev/DotNetBenchmarks" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=DotNetBenchmarks&cache_seconds=86402&theme=react" width="33%" alt="Dot NET Benchmarks"/>
   </a>
+  <a href="https://github.com/ricardocardoso-dev/bodyMeasurements" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=bodyMeasurements&cache_seconds=86402&theme=react" width="33%" alt="Body Measurements"/>
+  </a>
   <a href="https://github.com/ricardocardoso-dev/api-superHero" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=api-superHero&cache_seconds=86400&theme=react" width="33%" alt="API Super Heros"/>
   </a>
