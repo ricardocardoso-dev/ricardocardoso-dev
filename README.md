@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div> --> 
   <a href = "mailto:riicardo.cardoso0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wakatime.com/@ricardocardosodev" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
   <a href="mailto:riicardo.cardoso0@gmail.com?subject=Resume Request [from GitHub]!&body=Hello Ricardo, <br/> I was looking at your GitHub profile. Please could you send me your resume?" target="_blank"><img src="https://img.shields.io/badge/Request-My_Resume-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
   <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
