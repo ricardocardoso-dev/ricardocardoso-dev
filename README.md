@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- <h2 align="left">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br> -->
    <a href="https://github.com/ricardocardoso-dev/ski-shop-e-commerce" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=AlphaShopMicroservices&cache_seconds=86401&theme=react" width="33%" alt="AlphaShopMicroservices"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=AlphaShopMicroservices&cache_seconds=86402&theme=react" width="33%" alt="AlphaShopMicroservices"/>
+  </a> 
   <a href="https://github.com/ricardocardoso-dev/ski-shop-e-commerce" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=ski-shop-e-commerce&cache_seconds=86401&theme=react" width="33%" alt="Ski Shop E-Commerce"/>
   </a>
