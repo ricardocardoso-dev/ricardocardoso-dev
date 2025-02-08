@@ -51,14 +51,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- <h2 align="left">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br> -->
+   <a href="https://github.com/ricardocardoso-dev/ski-shop-e-commerce" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=AlphaShopMicroservices&cache_seconds=86401&theme=react" width="33%" alt="AlphaShopMicroservices"/>
+  </a>
   <a href="https://github.com/ricardocardoso-dev/ski-shop-e-commerce" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=ski-shop-e-commerce&cache_seconds=86401&theme=react" width="33%" alt="Ski Shop E-Commerce"/>
   </a>
   <a href="https://github.com/ricardocardoso-dev/DotNetBenchmarks" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=DotNetBenchmarks&cache_seconds=86402&theme=react" width="33%" alt="Dot NET Benchmarks"/>
-  </a>
-  <a href="https://github.com/ricardocardoso-dev/bodyMeasurements" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=bodyMeasurements&cache_seconds=86402&theme=react" width="33%" alt="Body Measurements"/>
   </a>
   <a href="https://github.com/ricardocardoso-dev/api-superHero" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=api-superHero&cache_seconds=86400&theme=react" width="33%" alt="API Super Heros"/>
@@ -66,10 +66,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/ricardocardoso-dev/MinhaAppMvcCompleta_DevIO" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=MinhaAppMvcCompleta_DevIO&cache_seconds=86400&theme=react" width="33%" alt="Dot NET Benchmarks"/>
   </a>
-      <a href="https://github.com/ricardocardoso-dev/pokedex" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=pokedex&cache_seconds=86402&theme=react" width="33%" alt="Pokedex"/>
-  </a>
-      <a href="https://github.com/ricardocardoso-dev/sql-utils" target="_blank">
+  <a href="https://github.com/ricardocardoso-dev/sql-utils" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocardoso-dev&repo=sql-utils&cache_seconds=86400&theme=react" width="33%" alt="SQL Utils"/>
   </a>
 
