@@ -37,6 +37,7 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
 </div>
+<br />
 <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&hide=html,css&layout=compact&theme=react&langs_count=6" width="34%"/>
   <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <div display="flex">
