@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- https://badges.pages.dev -->
 <!-- <a href="http://github.com/ricardocardoso-dev">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ricardocardoso-dev&hide=sql&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true&rank_icon=github"/><img height="155em" width="420" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&hide=javascript&layout=compact&theme=codeSTACKr"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ricardocardoso-dev&hide=sql,html,yaml,css,xml,csv&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true&rank_icon=github"/><img height="155em" width="420" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&hide=javascript&layout=compact&theme=codeSTACKr"/>
 </div>
  
 <div>   
@@ -34,18 +33,18 @@ Here are some ideas to get you started:
   <!--  <img alt="GitHub" src="https://img.shields.io/badge/azure-devops.svg?&style=for-the-badge&logo=microsoft&logoColor=white" /> -->
 <!-- </div> 
 <div> --> 
-  <a href = "mailto:riicardo.cardoso0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
-  <a href="mailto:riicardo.cardoso0@gmail.com?subject=Resume Request [from GitHub]!&body=Hello Ricardo, <br/> I was looking at your GitHub profile. Please could you send me your resume?" target="_blank"><img src="https://img.shields.io/badge/Request-My_Resume-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-
-  <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
 <div display="flex">
- <a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardocardosodev&hide=swig,prolog,batchfile,binary&layout=compact&theme=react"/>
- </a>
- <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&layout=compact&theme=react"/>
+ <a href="https://www.linkedin.com/in/riicardocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://wakatime.com/badge/user/957be417-f277-4ae4-a449-e6bc5785d785.svg?style=for-the-badge" target="_blank"></a> 
 </div>
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&hide=html,css&layout=compact&theme=react&langs_count=6" width="34%"/>
+  <!-- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) -->
+<!-- <div display="flex">
+ <a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ricardocardosodev&hide=swig,prolog,batchfile,binary,html,css,csv,yaml,tsconfig,other,actionscript,bash,text,actionscript3s&layout=compact&theme=react"/>
+ </a>
+ <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardoso-dev&hide=html,css&layout=compact&theme=react"/>
+</div>-->
 
 ## Projects
 
